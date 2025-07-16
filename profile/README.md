@@ -25,6 +25,7 @@ We build **scalable APIs**, **immersive web platforms**, and **developer tools**
 ## 🚀 Featured Projects
 | Project | Status |
 |---------|--------|
+| [**Ani News**](https://github.com/Shineii86/AniRecommendAPI) | [![API Status](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=API%20Status&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Faninews.vercel.app)](https://aninews.vercel.app) |
 | [**Ani Quotes**](https://github.com/Shineii86/AniQuotesAPI) | [![API Status](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=API%20Status&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Faniquotesapi.vercel.app)](https://aniquotesapi.vercel.app) |
 | [**Ani Recommend**](https://github.com/Shineii86/AniRecommendAPI) | [![API Status](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=API%20Status&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Faniquotesapi.vercel.app)](https://anirecommend.vercel.app) |
 
